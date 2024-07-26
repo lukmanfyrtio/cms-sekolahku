@@ -1,13 +1,14 @@
- <!-- Kelompok 7 -->
-
-<!-- Frengki Anggriawan - 220401010032 -->
-<!-- Lucky Ananda Pradani - 220401010249 -->
-<!-- Lukman - 220401010187 -->
-<!-- Andra Arfinoza - 220401010278 -->
-<!-- Syahrul Ramadhan Nasution - 220401010016 -->
-<!-- Awanda Ayu Lestari - 220401010252 -->
 
 <?php
+/** <!-- Kelompok 7 -->
+
+* <!-- Frengki Anggriawan - 220401010032 -->
+* <!-- Lucky Ananda Pradani - 220401010249 -->
+* <!-- Lukman - 220401010187 -->
+* <!-- Andra Arfinoza - 220401010278 -->
+* <!-- Syahrul Ramadhan Nasution - 220401010016 -->
+* <!-- Awanda Ayu Lestari - 220401010252 -->
+**/
 /**
  * CodeIgniter
  *
