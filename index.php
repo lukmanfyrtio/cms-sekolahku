@@ -1,8 +1,10 @@
  <!-- Kelompok 7 -->
-	
+
+<!-- Frengki Anggriawan - 220401010032 -->
 <!-- Lucky Ananda Pradani - 220401010249 -->
- <!-- Lukman - 220401010187 -->
+<!-- Lukman - 220401010187 -->
 <!-- Andra Arfinoza - 220401010278 -->
+
 <?php
 /**
  * CodeIgniter
